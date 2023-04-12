@@ -1,0 +1,34 @@
+.default {
+  background-color: var(--title-color);
+  width: var(--large-btn);
+  height: 35px;
+
+  border: none;
+  border-radius: 5px;
+}
+
+.link_default {
+  font-family: "Avenue", Arial, sans-serif;
+  font-weight: bold;
+  font-size: var(--smalles);
+  color: white;
+}
+
+.contact {
+  width: var(--medium-btn);
+  height: 35px;
+  background-color: transparent;
+
+  border: none;
+  border-color: var(--title-color);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.link_contact {
+  font-family: "Avenue", Arial, sans-serif;
+  font-weight: bold;
+  font-size: var(--smalles);
+  color: var(--title-color);
+}

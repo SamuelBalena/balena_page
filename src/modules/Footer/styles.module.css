@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  padding: 25px 0;
+  background-color: #8aacca;
+}
+
+.header {
+  max-width: 425px;
+}
+
+.main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  max-width: var(--default);
+  height: 100px;
+  margin: 0 auto;
+}
+
+.span {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+}

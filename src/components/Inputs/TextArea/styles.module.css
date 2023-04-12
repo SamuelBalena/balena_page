@@ -1,0 +1,11 @@
+.textarea {
+  padding: 5px 0;
+  width: 99.25%;
+  margin: 50px 20px 25px 20px;
+
+  border: 0;
+  border-bottom: 1px;
+  border-style: solid;
+
+  font-size: 16px;
+}

@@ -1,0 +1,11 @@
+.gray {
+  font-family: "JuliusSans", Arial, sans-serif;
+  font-size: var(--small);
+  color: var(--paragraph-color);
+}
+
+.white {
+  font-family: "JuliusSans", Arial, sans-serif;
+  font-size: var(--small);
+  color: white;
+}

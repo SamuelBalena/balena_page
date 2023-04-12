@@ -1,0 +1,15 @@
+:root {
+  /* Font sizes */
+  --smalles: 14px;
+  --small: 16px;
+  --medium: 18px;
+  --large: 24px;
+  --extra-large: 28px;
+
+  /* Container sizes */
+  --default: 1110px;
+
+  /* Buttons sizes */
+  --large-btn: 175px;
+  --medium-btn: 145px;
+}

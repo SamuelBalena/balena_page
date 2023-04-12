@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  max-width: 100%;
+  padding: 10px 150px;
+  background-color: var(--background-nav-color);
+}
+
+.list {
+  display: flex;
+}
+
+.link {
+  padding: 10px;
+}

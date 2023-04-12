@@ -1,0 +1,5 @@
+.title {
+  font-family: "Avenue", Arial, sans-serif;
+  font-size: var(--large);
+  color: var(--title-color);
+}

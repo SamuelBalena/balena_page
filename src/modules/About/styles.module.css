@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.span {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  max-width: 425px;
+  height: 150px;
+}

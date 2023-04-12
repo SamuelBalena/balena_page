@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  max-width: var(--default);
+  height: 250px;
+  margin: 150px auto;
+}
+
+.fieldset {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 50px;
+  width: 100%;
+}

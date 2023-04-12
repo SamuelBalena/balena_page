@@ -1,0 +1,5 @@
+.subtitle {
+  font-family: "JuliusSansOne", Arial, sans-serif;
+  font-size: var(--medium);
+  color: var(--subtitle-color);
+}

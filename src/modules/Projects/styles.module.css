@@ -1,0 +1,12 @@
+.container {
+  max-width: var(--default);
+  margin: 150px auto;
+}
+
+.span {
+  text-align: center;
+}
+
+.main {
+  margin-top: 25px;
+}

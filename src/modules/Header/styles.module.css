@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-bottom: 100px;
+
+  height: 550px;
+  max-width: var(--default);
+}
+
+.span {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  max-width: 475px;
+  height: 175px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+
+  max-width: 325px;
+}
+
+.image {
+  border-radius: 50%;
+}
